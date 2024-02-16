@@ -14,8 +14,8 @@ To adhere to ISP, we can create the following abstractions:
 - Responsibilities: Define a method for displaying a post.
 
 
-# Why it's bad: 
+## Why it's bad: 
 The bad example violates ISP by having a single interface (Post) that includes methods for both creating and displaying posts. This forces clients to depend on methods they may not use, leading to unnecessary coupling and potential code bloat.
 
-# Why it's good: 
+## Why it's good: 
 In the good example, we have separate interfaces (PostCreator and PostDisplayer) for creating and displaying posts, respectively. This allows clients to depend only on the interfaces they need, reducing coupling and keeping the codebase more cohesive.
