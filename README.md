@@ -20,11 +20,11 @@ The DIP states that high-level modules should not depend on low-level modules, b
 
 ## Acknowledgements - Examples
 
-- [Single Responsibility Principle](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Open/Closed Principle](https://github.com/matiassingers/awesome-readme)
-- [Liskov Substitution Principle](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-- [Interface Segregation Principle](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-- [Dependency Inversion Principle](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [1. S - Single Responsibility Principle](https://github.com/JuanJosephG/SOLID-Principles/blob/main/1-Single%20Responsability%20Principle%20(SRP)/SRP.md)
+- [2. O - Open/Closed Principle](https://github.com/JuanJosephG/SOLID-Principles/blob/main/2-Open-Closed-Principle%20(OCP)/OCP.md)
+- [3. L - Liskov Substitution Principle](https://github.com/JuanJosephG/SOLID-Principles/blob/main/3-Liskov-Substitution-Principle%20(LSP)/LSP.md)
+- [4. I - Interface Segregation Principle](https://github.com/JuanJosephG/SOLID-Principles/blob/main/4-Interface-Segregation-Principle%20(ISP)/ISP.md)
+- [5. D - Dependency Inversion Principle](https://github.com/JuanJosephG/SOLID-Principles/blob/main/5-Dependency%20Inversion%20Principle%20(DIP)/DIP.md)
 
 
 ## Tech Stack
